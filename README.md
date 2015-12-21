@@ -3,7 +3,7 @@ I have been interested in the field known as Artificial Life for a number of yea
 One of the most beautiful findings of this field is a very simple algorithm known as boids, 
 which models flocking behaviour in nature. This algorithm was invented by computer animator Craig Reynolds. 
 
-**_This project is based on http://www.kfish.org/boids/  _**
+**The idea of this project comes from http://www.kfish.org/boids/**
 
 It models flocking behaviour through serveral languages.
 
